@@ -8,7 +8,11 @@
 		<version>3.0.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+  
+//This is done by VishalQA
+
 //This is first done by AkshayDEV
+
 	<groupId>com.example</groupId>
 	<artifactId>AdditionLogic</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
